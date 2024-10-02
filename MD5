@@ -1,0 +1,13 @@
+b6fecbe1f2c2d048dc5dc9478a1b494b *DESCRIPTION
+e6fa40c024261796161f61bd310e7080 *LICENSE
+ee44a9760e0a77443690aa6bcaf47af2 *NAMESPACE
+168aca9e663c63f704967fd774280365 *NEWS.md
+a98d36633c906580068c0202aebb89f0 *R/autogam.R
+8c037ee2cd7ce1baea45029818c73e41 *R/smooth_formula_string.R
+5cbc74303b05824a968c04b2219b79c4 *README.md
+39fc59b21d8b6d8fa20db760d4dcf92b *inst/WORDLIST
+a7757d3352cc5423fcf618d555d48227 *man/autogam.Rd
+78515ba96100b64fe3afad8e974624ad *man/smooth_formula_string.Rd
+b142c6c243e81c28f759612cfbf01fb4 *tests/testthat.R
+8bc6f3d60fe4df0dd9f119cede99e97f *tests/testthat/test-autogam.R
+0e241dc26c2edf9f5cef8a750d166fab *tests/testthat/test-smooth_formula_string.R
